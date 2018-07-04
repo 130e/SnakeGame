@@ -1,5 +1,6 @@
 # SnakeGame
 SnakeGame_with_AI_in_dev
+基于curses库，需要在shell运行  ：/
 
 ## SnakeGame
 封装的贪吃蛇游戏，没有时间限制，具有可视化：），可以方便地应用于强化学习实验；
